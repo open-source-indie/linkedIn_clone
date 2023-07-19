@@ -22,4 +22,4 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           issue-message: "<h3>Hey! contributor, thank you for opening an Issue 🎉.</h3>"
           pr-message: "<h3>Hey! contributor, thank you for opening a Pull Request 🎉.</h3>"
-          footer: "We will review it and provide you with feedback and suggestions.  Star ⭐ this repo to show us support."
+          footer: "We will review it and provide you with feedback and suggestions.  Star ⭐ this repo to show us support." 
